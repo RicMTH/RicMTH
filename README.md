@@ -1,16 +1,15 @@
-<h1 align="center">Fala aí, eu sou o Ricardo 👋</h1>
+<h1 align="center"> Olá me chamo Ricardo Matheus 👋</h1>
 
 <p align="center">
   💻 Estudante de Engenharia de Software <br>
   🚀 Em busca de uma oportunidade de estágio em desenvolvimento <br>
-  🌱 Focado em Back-end, mas com experiência em Front-end
+
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Engenharia de software**
 - 💼 Experiência anterior na área administrativa (Stone)
 - 🔄 Hoje totalmente focado em tecnologia
 - 🧠 Sempre buscando evoluir e aprender algo novo todos os dias
