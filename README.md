@@ -36,20 +36,16 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RicMTH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RicMTH&show_icons=true&theme=dracula)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RicMTH&layout=compact&langs_count=16&theme=dracula"/>
-</p>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RicMTH&layout=compact&theme=dracula)
 
 ---
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: (coloca seu link aqui)
-- 📧 Email: (coloca seu email aqui)
+- 💼 LinkedIn: https://www.linkedin.com/in/ricardo-matheus-ribeiro/
+- 📧 Email: ricmrds@gmail.com
 
 ---
 
